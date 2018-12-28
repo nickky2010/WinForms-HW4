@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schema id="Students"
+    targetNamespace="http://tempuri.org/Students.xsd"
+    elementFormDefault="qualified"
+   
+    xmlns:tns="http://tempuri.org/Students.xsd"
+    xmlns="http://www.w3.org/2001/XMLSchema"
+>
+  <element name="Students">
+    <complexType>
+      <sequence>
+        <element name="Student" type="tns:Student" minOccurs="1"
+            maxOccurs="unbounded"/>
+      </sequence>
+    </complexType>
+  </element>
+
+  <complexType name="Student">
+    <sequence>
+      <element name="Name" type="string"/>
+      <element name="Age" type="integer"/>
+      <element name="Marks" type="tns:Ocenki"/>
+    </sequence>
+    
+  </complexType>
+
+  <complexType  name="Ocenki">
+    <sequence>
+      <element name="Ball" type="tns:ball" maxOccurs="unbounded"/>
+      
+    </sequence>
+  </complexType>
+  <simpleType  name = "ball">
+    <restriction base="integer">
+      <minInclusive value="1"/>
+      <maxInclusive value="10"/>
+    </restriction>
+
+  </simpleType>
+</schema>

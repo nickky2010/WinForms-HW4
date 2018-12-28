@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<Students xmlns="http://tempuri.org/Students.xsd">
+  <Student xmlns="">
+    <Name>Вася</Name>
+    <Marks>
+      <Ball>4</Ball>
+      <Ball>4</Ball>
+      <Ball>2</Ball>
+    </Marks>
+    <Age>17</Age>
+  </Student>
+  <Student xmlns="">
+    <Name>Петя</Name>
+    <Age>19</Age>
+    <Marks>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>10</Ball>
+    </Marks>
+  </Student>
+  <Student xmlns="">
+    
+    <Age>23</Age>
+    <Name>Машаня</Name>
+    <Marks>
+      <Ball>5</Ball>
+      <Ball>9</Ball>
+      <Ball>2</Ball>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>8</Ball>
+    </Marks>
+  </Student>
+</Students>

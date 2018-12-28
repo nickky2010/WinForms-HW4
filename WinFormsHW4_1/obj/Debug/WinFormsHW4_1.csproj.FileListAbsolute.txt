@@ -1,0 +1,10 @@
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\bin\Debug\WinFormsHW4_1.exe.config
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\bin\Debug\WinFormsHW4_1.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\bin\Debug\WinFormsHW4_1.pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.Form1.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.Properties.Resources.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW4\WinFormsHW4_1\obj\Debug\WinFormsHW4_1.pdb
